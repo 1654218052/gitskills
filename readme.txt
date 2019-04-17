@@ -1,2 +1,3 @@
 learn a new skill
-AND simple
+AND simple 
+rewrite 101
