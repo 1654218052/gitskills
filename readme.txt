@@ -1,2 +1,2 @@
 learn a new skill
-&simple
+AND simple
