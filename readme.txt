@@ -8,3 +8,4 @@ working
 how 102?
 >>>>>>> work
 fixed 102
+study some people 02
